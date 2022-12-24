@@ -8,15 +8,13 @@ function App() {
   return (
     <div className="App">
       <Nav />
-      <Container>
-       <div className="row">
-        <div className="col-md">
-          <Task />
-        </div>
-      </div> 
-      </Container>
-      
-      <h1>Testing Rakamin</h1>
+      <div className='container-cust'>
+        <div className="row">
+          <div className="col-md">
+            <Task />
+          </div>
+        </div> 
+      </div>
     </div>
   );
 }

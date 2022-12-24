@@ -1,8 +1,11 @@
 import React from 'react'
+import './Task.css'
 
 const Task = () => {
   return (
-    <div>Task</div>
+    <div className='wrap-task'>
+      <div className='taskBox'></div>
+    </div>
   )
 }
 
