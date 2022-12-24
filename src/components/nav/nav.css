@@ -4,6 +4,16 @@
     font-style: normal;
     font-weight: 700;
     font-size: 18px;
+    color: #1E1F21;
+    text-align: center;
     /* line-height: 28px; */
     /* color: #0542bb; */
+}
+.line-div {
+    position: absolute;
+    height: 0px;
+    left: 0px;
+    right: 0px;
+    top: 64px;
+    border: 1px solid #E0E0E0;
 }

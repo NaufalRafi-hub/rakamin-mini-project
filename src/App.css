@@ -9,11 +9,13 @@
 .mr-24 {
   margin-right: 24px;
 }
-.ml-20 {
-  margin-left: 20px;
+.px-20 {
+  padding-left: 20px;
+  padding-right: 20px;
 }
-.mt-18 {
-  margin-top: 18px;
+.py-18 {
+  padding-top: 18px;
+  padding-bottom: 18px;
 }
 .gap-10 {
   gap: 10px;
