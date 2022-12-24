@@ -7,8 +7,8 @@ import Task from './components/Task';
 function App() {
   return (
     <div className="App">
-      <Nav />
       <Container>
+      <Nav />
        <div className="row">
         <div className="col-md">
           <Task />

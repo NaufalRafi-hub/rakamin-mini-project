@@ -1,8 +1,15 @@
 import React from 'react'
+import { Container } from 'react-bootstrap'
 
 const Nav = () => {
   return (
-    <div>Product Roadmap</div>
+      <Container>
+        <div className='wrap-nav'>
+          <div>
+            <h1>Product Roadmap</h1>
+          </div>
+        </div>
+      </Container>
   )
 }
 

@@ -2,3 +2,13 @@
 * {
   font-family: 'Nunito', sans-serif;
 }
+.mt-24 {
+  margin-top: 24px;
+
+}
+.mr-24 {
+  margin-right: 24px;
+}
+.ml-20 {
+  margin-left: 20px;
+}
